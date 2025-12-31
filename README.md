@@ -80,7 +80,7 @@ depth-mlops/
 ## Быстрый старт
 
 ```bash
-git clone depth-mlops
+git clone https://github.com/tismol/depth-mlops.git
 cd depth-mlops
 docker compose up --build
 ```

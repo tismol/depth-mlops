@@ -77,9 +77,11 @@ depth-mlops/
       app.py           # Streamlit UI
 ```
 
-## Запуск
+## Быстрый старт
 
 ```bash
+git clone depth-mlops
+cd depth-mlops
 docker compose up --build
 ```
 

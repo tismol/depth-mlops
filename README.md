@@ -74,7 +74,7 @@ depth-mlops/
     ui/
       Dockerfile
       requirements.txt
-      app.py           # Streamlit UI
+      app.py                                # Streamlit UI
 ```
 
 ## Быстрый старт

@@ -82,7 +82,7 @@ depth-mlops/
 ```bash
 git clone https://github.com/tismol/depth-mlops.git
 cd depth-mlops
-docker compose up --build
+docker compose up -d --build
 ```
 
 ### Доступные интерфейсы
